@@ -22,7 +22,7 @@ at
   Programming languages: <strong>JavaScript</strong> & <strong>Python</strong>.
 </p>
 
-<p align="left">Others: <strong>Git</strong>, PostgreSQL & MySQL.</p>
+<p align="left">Others: <strong>Git</strong>, <strong>PostgreSQL</strong> & <strong>MySQL</strong>.</p>
 <p align="left">
   <img width='30px' src='./assets/React.png'>
   <img width='30px' src='./assets/Node.js.png'>

@@ -44,7 +44,7 @@ at
   <a href="https://www.linkedin.com/in/joão-mira/" alt="LinkedIn">
     <img width='150px' src='./assets/LinkedIn.svg'>
   </a>
-  <a href="https://www.instagram.com/jmira._/" alt="Instagram">
+  <a href="https://www.instagram.com/joaomiira/" alt="Instagram">
     <img width='150px' src='./assets/Instagram.svg'>
   </a>
 </p>

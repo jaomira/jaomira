@@ -6,7 +6,7 @@
 
 <p align="left">
 I'm a  
-<strong>Full Stack Developer</strong>
+<strong>Software Developer</strong>
 and i work as 
 <strong>Apprentice</strong>
 at 

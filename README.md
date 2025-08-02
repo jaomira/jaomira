@@ -19,7 +19,7 @@ at
 </p>
 
 <p align="left">
-  Programming languages: <strong>JavaScript</strong> & <strong>Python</strong>.
+  Programming languages: <strong>Java</strong>, <strong>JavaScript</strong> & <strong>Python</strong>.
 </p>
 
 <p align="left">Others: <strong>Git</strong>, <strong>PostgreSQL</strong> & <strong>MySQL</strong>.</p>
